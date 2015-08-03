@@ -2,7 +2,7 @@
 
 Dark colorful Xcode Theme
 
-![screen](screenshots/screenshot.png)
+![screen](Screenshots/screenshot.png)
 
 
 ##Installation
